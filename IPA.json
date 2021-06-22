@@ -22,6 +22,19 @@
             "appPlist": "https://gbox.lanzoui.com/iS1FHp66z3a",
             "appDescription": "GBox"
         },
+
+{
+            "hide": true,
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2019-12-30T10:30:00+0800",
+            "appName": "Filza",
+            "appVersion": "3.6",
+            "appImage": "https://dev.tencent.com/u/wallace_leung/p/AppHub/git/raw/master/Apps/filza/filza.png",
+            "appPlist": "https://gbox.lanzoui.com/i8cic2h",
+            "appDescription": "Filza"
+        },
+
        {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
