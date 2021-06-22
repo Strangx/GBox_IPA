@@ -1,0 +1,36 @@
+{
+    "version": "1.0",
+    "sourceName": "Strange GBox",
+    "sourceAuthor": "GBox Official",
+    "sourceLinkTitle": "Strange",
+    "sourceLinkUrl": "http://gbox.run",
+    "sourceImage": "https://avatars.githubusercontent.com/u/77616081?v=4",
+    "sourceUpdateTime": "2021-06-12T12:15:00+0800",
+    "sourceDescription": "Strange IPA",
+    "appCategories": [
+        "Mr.",
+        "Strange"
+    ],
+    "appRepositories": [
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2021-05-08T18:45:00+0800",
+            "appName": "GBox",
+            "appVersion": "3.3.5",
+            "appImage": "https://s1.ax1x.com/2020/04/02/G8OPxA.png",
+            "appPlist": "https://gbox.lanzoui.com/iS1FHp66z3a",
+            "appDescription": "GBox"
+        },
+       {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2021-04-08T10:00:00+0800",
+            "appName": "unC0ver",
+            "appVersion": "6.1.2",
+            "appImage": "https://cydia-app.com/wp-content/uploads/2019/07/uncover-unc0ver-Icon-app-200px-120x120.png",
+            "appPlist": "https://gbox.lanzoui.com/iqPkzns3imj",
+            "appDescription": "1. ä¼˜åŒ–iOS 14ä¸Šçš„ç¨³å®šæ€§å’Œå¯é æ€§\n\næ”¯æŒA7-A13è®¾å¤‡çš„iOS 11.0-14.3 ç³»ç»Ÿï¼ˆä¸æ”¯æŒIOS12.3+12.31å’ŒiOS13.5.1-13.7ç³»ç»Ÿï¼Œä¹Ÿä¸æ”¯æŒIOS12.4.2åŠä»¥åŽçš„ç³»ç»Ÿï¼‰"
+        }
+    ]
+}
